@@ -3,6 +3,7 @@ AWS and Udacity are collaborating to educate developers of all skill levels on m
 
 | Udacity AWS Machine Learning Foundations Nanodegree Program |
 --- | ---| ---
+
 1 | Welcome to the AWS Machine Learning Foundations Course |
 2 | Introduction to Machine Learning | 
 3 | Machine Learning with AWS |  
