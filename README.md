@@ -5,9 +5,15 @@ AWS and Udacity are collaborating to educate developers of all skill levels on m
 --- | ---| ---
 
 1 | Welcome to the AWS Machine Learning Foundations Course |
+
 2 | Introduction to Machine Learning | 
+
 3 | Machine Learning with AWS |  
+
 4 | Software Engineering Practices, part 1 |  
+
 5 | Software Engineering Practices, part 2 |  
+
 6 | Object-Oriented Programming |  
+
 7 | AWS ML Foundations Assessment |
